@@ -1,0 +1,32 @@
+@media all and (min-width: 580px) {
+    .Login {
+      padding: 50px 0;
+      position: centre;
+      margin-top: 100px;
+      margin-right: 350px;
+      height: 520px;
+      margin-left: 350px;
+      background-color: white;
+      box-shadow: 
+        0 0 1px rgba(0, 0, 0, 0.3), 
+        0 3px 7px rgba(0, 0, 0, 0.3), 
+        inset 0 1px rgba(255,255,255,1),
+        inset 0 -3px 2px rgba(0,0,0,0.25);
+      border-radius: 5px;
+      background: linear-gradient(#eeefef, #ffffff 10%);
+      
+    }
+    .img{
+      padding-bottom:50px;
+    }
+    .Login h4{
+      padding: 20px;
+    }
+  
+    .Login form {
+      margin: 0px auto;
+      max-width: 350px;
+      font-size: 11pt;
+    }
+  }
+  

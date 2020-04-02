@@ -1,0 +1,76 @@
+.Home {
+   position: absolute;
+   left:0;
+   right:0;
+  
+}
+
+.Home .navi {
+  padding: 50px;
+  position: absolute;
+  width: 48%;
+  margin-left: 650px;
+  margin-top: 250px;
+      margin-right: 350px;
+      height: 320px;
+     z-index: 1;
+     color:black;
+    left: 0;
+    top: 0;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+        border-radius: 5px;
+        background: linear-gradient(#92a8d1,whitesmoke 10%);
+}
+
+.Home .navi .infoi{
+    position: absolute;
+    z-index: 2;
+    left: 0;
+    top: 0;
+    right:0;
+}
+
+.Home .lander1 {
+    width: 100%;
+    font-weight: 100;
+    background-color: whitesmoke;
+    height: 633px;
+    align-content: center;
+  
+      
+  }
+ 
+  .Home .lander1 h1 {
+    padding-top: 70px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: xx-large;
+    height: 100px;  
+      }
+  
+ .Home .lander1 p{
+  padding-top: 70px;   
+ }
+
+ .Home .lander2 h1 {
+    padding-top: 30px;
+    padding-bottom: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+ .Home .lander2 p {
+  padding-top: 70px;
+  font-weight: bold;
+ }
+
+
+ .lander3 {
+  padding-top: 100px;
+  height: 633px;
+  margin-left: -3%;  
+ }
+  
+      
+  

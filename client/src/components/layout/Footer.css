@@ -1,0 +1,132 @@
+.Footer {
+    font-size: 13.5px;
+    text-align: left;
+    line-height: 15px;
+    color: rgb(59, 57, 57);
+    font-weight: 900;
+    
+       
+            }
+     .Footer h3 {
+        font-size: 15px; 
+        font-weight: bold;
+        padding-bottom: 15px;
+     }
+     .Footer h4 {
+        font-size: 15px; 
+        font-family: Cambria;
+        font-weight: bold;
+        color: rgb(54, 124, 216);
+     }
+     .Footer p{
+        font-weight: 450;
+     }
+
+.Footer .Footer1 {
+        width: 100%;
+        
+     }
+
+    .Footer1 .Footer1a{
+        float: left;
+        padding-left: 100px;
+                
+       }
+   .Footer1 .Footer1b{
+        float: left;
+        padding-left: 80px;
+        
+   }
+   .Footer1 .Footer1c{
+       float:left;
+       padding-left: 100px;
+
+       
+   }
+   .Footer1 .Footer1d{
+    float: left;
+    padding-left: 150px;
+    
+    
+}
+.Footer .Footer2 {
+    width: 100%;
+    padding-top: 320px;
+        
+}
+
+.Footer2 .Footer2a{
+    float: left;
+    padding-left: 100px;
+   
+    
+   }
+.Footer2 .Footer2b{
+    float: left;
+    padding-left: 290px;
+    
+    
+}
+.Footer2 .Footer2c{
+   float:left;
+   padding-left: 145px;
+   
+}
+
+.Footer .Footer3 {
+    width: 100%;
+    padding-top: 200px;
+    
+}
+.Footer3 .Footer3a{
+    float: left;
+    padding-left: 100px;
+    padding-right: 55px;
+        
+   }
+.Footer3 .Footer3b{
+    float: left;
+    padding-top: 40px;
+    padding-left: 100px;
+    border-top: .6px dashed;
+    border-top-color: grey;
+        
+}
+.Footer3 .Footer3c{
+   float:left;
+   padding-left: 130px;
+   padding-top: 50px;
+   border-top: .8px solid;
+   border-top-style: outset;;
+   border-top-color: lightgrey;
+   
+}
+.Footer3 .Footer3d{
+    float:left;
+    padding-left: 187px;
+    padding-top: 50px;
+    border-top: 1px solid;
+    border-top-style: outset;;
+    border-top-color: lightgrey;
+    padding-right: 185px;
+    
+ }
+
+.Footer .Footer4 {
+    padding-left: 100px;
+    padding-top: 200px;
+    padding-bottom: 75px;
+    
+    
+    
+}
+.Footer .Footer4  p {
+    float: left;
+    padding: 20px;
+    border-left: 1px solid orange;
+    border-top: .8px;
+    border-top-left-radius: 20%;
+    height: 5px;
+    font-size: smaller;
+    
+}

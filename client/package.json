@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage": "http://ajirar.com/",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@types/hoist-non-react-statics": "^3.3.1",

@@ -2,7 +2,6 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "backend example",
-  "homepage": "https://krizah19.github.io/ajirar_testing",
   "main": "server.js",
   "scripts": {
     "server": "node server.js",

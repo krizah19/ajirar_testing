@@ -2,11 +2,12 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "backend example",
+  "homepage": "https://krizah19.github.io/ajirar_testing",
   "main": "server.js",
   "scripts": {
     "server": "node server.js",
     "client": "npm start --prefix client",
-    "dev":"concurrently \"npm run client\" \"npm run server\""
+    "dev": "concurrently \"npm run client\" \"npm run server\""
   },
   "keywords": [],
   "author": "",
@@ -16,6 +17,7 @@
     "body-parser": "^1.19.0",
     "concurrently": "^4.1.2",
     "express": "^4.17.1",
+    "gh-pages": "^2.2.0",
     "gravatar": "^1.8.0",
     "is-empty": "^1.2.0",
     "jsonwebtoken": "^8.5.1",

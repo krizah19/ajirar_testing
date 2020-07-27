@@ -1,3 +1,5 @@
+/*jshint esversion: 6 */
+
 import React, { Component } from "react";
 import "./Product.css";
 import { Link } from "react-router-dom";
@@ -13,6 +15,7 @@ import banner8 from "./banner8.jpg";
 import Footer from "./layout/Footer";
 
 export default class Product extends Component {
+
   render() {
     return(
         <div className="Product">

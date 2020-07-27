@@ -1,5 +1,8 @@
+/*jshint esversion: 6 */
+
 import React, { Component } from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { useWindowResize } from "./useWindowResize";
 import { Provider } from "react-redux";
 import store from "./store";
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -11,19 +14,19 @@ import "./App.css";
 import Navbar from './components/layout/Navbar';
 import Landing from "./components/layout/Landing";
 import Product from "./components/Product";
-import hr_services from "./components/hr_services"
-import benefits from "./components/product/benefits"
-import payroll from "./components/product/payroll"
-import integrations from "./components/product/integrations"
-import timing from "./components/product/timing"
-import hr from "./components/product/hr"
-import instant_demo from "./components/instant_demo"
-import pricing from "./components/product/pricing"
-import accountants from "./components/partners/accountants"
-import directory from "./components/partners/directory"
-import partner_resources from "./components/partner_resources"
-import tools from "./components/tools"
-import support from "./components/support"
+import hr_services from "./components/hr_services";
+import benefits from "./components/product/benefits";
+import payroll from "./components/product/payroll";
+import integrations from "./components/product/integrations";
+import timing from "./components/product/timing";
+import hr from "./components/product/hr";
+import instant_demo from "./components/instant_demo";
+import pricing from "./components/product/pricing";
+import accountants from "./components/partners/accountants";
+import directory from "./components/partners/directory";
+import partner_resources from "./components/partner_resources";
+import tools from "./components/tools";
+import support from "./components/support";
 
 import Register from "./components/auth/Register";
 import Login from "./components/auth/Login";
@@ -80,7 +83,7 @@ class App extends Component {
                 
         <Route exact path="/register" component={Register} />
         <Route exact path="/login" component={Login} />
-              <Switch>
+            <Switch>
               <PrivateRoute exact path="/dashboard" component={Dashboard} />
             </Switch>
       </div>

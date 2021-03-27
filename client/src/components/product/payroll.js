@@ -3,11 +3,12 @@ import "./payroll.css";
 import { Link } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-import banner9 from "./banner9.jpg";
 import banner3 from "./banner3.png";
 import banner4 from "./banner4.jpg";
 import banner5 from "./banner5.jpg";
 import Footer from "../layout/Footer";
+import banner9 from "./banner9.jpg";
+
 
 export default class Product extends Component {
   render() {

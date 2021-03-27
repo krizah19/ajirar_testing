@@ -3,7 +3,7 @@ import "./payroll.css";
 import { Link } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-import banner2 from "./banner2.png";
+import banner9 from "./banner9.jpg";
 import banner3 from "./banner3.png";
 import banner4 from "./banner4.jpg";
 import banner5 from "./banner5.jpg";
@@ -18,7 +18,7 @@ export default class Product extends Component {
             <h2>Ajirar makes it easy to onboard, pay, insure, and support your hardworking team.</h2>
             <Link to="" className="btn">Try 1 month free</Link>
 
-          <img src={banner2} width="95%" height="415" alt="/" />
+          <img src={banner9} width="95%" height="415" alt="/" />
                                                </div>
                     
           <div className="lander2">

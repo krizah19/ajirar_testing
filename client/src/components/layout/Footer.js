@@ -103,7 +103,7 @@ class Footer extends Component {
          </div>
 
          <div className="Footer4">
-         <p>Ajirar © 2020</p> 
+         <p>Ajirar © 2021</p> 
          <p>Brokers</p> 
          <p><Link to=""> Privacy</Link></p> 
          <p>Terms</p> 

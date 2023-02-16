@@ -20,7 +20,7 @@ export default class Product extends Component {
     return(
         <div className="Product">
         <div className="lander1">
-            <p>Welcome to the people platform</p>
+            <p>Welcome to the company platform</p>
             <h2>Ajirar makes it easy to onboard, pay, insure, and support your hardworking team.</h2>
             <Link to="" className="btn">Try 1 month free</Link>
 

@@ -49,7 +49,7 @@ export default class Product extends Component {
             <div className="column">
                 <p1>Pay your team</p1>
                 <h2>Pay employees for their hard work.</h2> 
-                     <p>We made payroll easy. With just a few clicks, we calculate and file your payroll taxes. And everything syncs automatically - time tracking, new hires, benefits plans, and more. </p>
+                     <p>We made payroll easy. With just a few clicks, calculate and file your taxes. And everything syncs automatically - time tracking, new hires, benefits plans, and more. </p>
                 
                 <Link to="/product/payroll" className="btn">See more about payroll</Link>
 

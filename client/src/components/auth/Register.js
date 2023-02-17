@@ -64,7 +64,7 @@ render() {
         <form noValidate onSubmit={this.onSubmit}>
 
         <h1>Get started with Ajirar</h1>
-            <p>We offer one intuitive place to manage payroll, benefits and HR for your business. Plus, you get 1 month free.</p>
+            <p>We offer one intuitive platform to manage payroll, benefits and HR for your business. Plus, you get 1 month free.</p>
 
          <div className="form-group">
          <input

@@ -88,7 +88,7 @@ export default class Product extends Component {
         </div>
 
         <div className="lander8">
-          <p>Prices start at just Kes. 1,198/month</p>
+          <p>Prices start at just Kes. 1,199/month</p>
           <h1>Get your team working with Ajirar</h1>
           <Link to="" className="btn">Try 1 month free</Link>
                                                </div>

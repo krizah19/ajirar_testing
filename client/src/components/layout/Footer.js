@@ -17,9 +17,9 @@ class Footer extends Component {
          <h4>For accountants</h4>
          <p>A rewards program for accountants and bookkeepers</p>
          <h4>Integrations - <i>Coming Soon!</i></h4>
-         <p>Sage, Quickbooks, Clover, TSheets, and more</p>
+         <p>Quickbooks, TSheets, and more</p>
          <h4>Pricing</h4>
-         <p>Starting at just Kes. 1,198/month</p>
+         <p>Starting at just Kes. 1,199/month</p>
          </div>
 
          <div className="Footer1b">

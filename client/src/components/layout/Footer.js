@@ -19,7 +19,7 @@ class Footer extends Component {
          <h4>Integrations - <i>Coming Soon!</i></h4>
          <p>Quickbooks, TSheets, and more</p>
          <h4>Pricing</h4>
-         <p>Starting at just Kes. 1,199/month</p>
+         <p>Starting at just Kes. 1,199.99/month</p>
          </div>
 
          <div className="Footer1b">

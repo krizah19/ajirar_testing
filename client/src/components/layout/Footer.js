@@ -27,7 +27,7 @@ class Footer extends Component {
          <p><Link to="/payroll"> Payroll </Link></p>
          <p>Benefits - <i>Coming Soon!</i></p>
          <p>Team management</p>
-         <p>Expert benefits advisors - <i>Coming Soon!</i></p>
+         <p>Benefits advisors - <i>Coming Soon!</i></p>
          <p>Time tracking tools - <i>Coming Soon!</i></p>
          <p>Retirement Plans</p>
          <p>IT Services - <i>Coming Soon!</i></p>

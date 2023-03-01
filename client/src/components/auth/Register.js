@@ -14,7 +14,7 @@ class Register extends Component {
       name: "",
       email: "",
       company_name: "",
-      select_county: "",
+      select_city: "",
       company_phone: "",
       number_of_employees: "",
       errors: {}
@@ -46,7 +46,7 @@ onSubmit = e => {
             name: this.state.name,
             email: this.state.email,
             company_name: this.state.company_name,
-            select_county: this.state.select_county,
+            select_city: this.state.select_city,
             company_phone: this.state.company_phone,
             number_of_employees: this.state.number_of_employees
           
@@ -112,16 +112,16 @@ render() {
         <div className="form-group">
                 <input
                   onChange={this.onChange}
-                  Value={this.state.select_county}
-                  placeholder="Select a County"
-                  error={errors.select_county}
-                  id="select_county"
+                  Value={this.state.select_city}
+                  placeholder="Select a City"
+                  error={errors.select_city}
+                  id="select_city"
                   type="text"
                   className={classnames("", {
                     invalid: errors.password
                   })}
                 />
-                <span className="red-text">{errors.select_county}</span>
+                <span className="red-text">{errors.select_city}</span>
         </div>
         
         <div className="form-group">

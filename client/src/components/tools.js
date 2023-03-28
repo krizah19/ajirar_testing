@@ -31,8 +31,8 @@ export default class Product extends Component {
         
         <div className="lander3">
             <div className="column">
-            <p1>Onboard your team</p1>
-            <h2>Grow your team and make it look easy.</h2> 
+            <p1>Onboard your staff</p1>
+            <h2>Grow your staff and make it look easy.</h2> 
                         <p>Send great offer letters and have new people set up their own accounts on the platform. Plus, sign and store new hires paperwork you need to help you stay organized</p>
          </div>
          

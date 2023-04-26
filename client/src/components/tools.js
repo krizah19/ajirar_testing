@@ -44,7 +44,7 @@ export default class Product extends Component {
             <div className="column"> <img src={banner5} height="565" alt="/" /> </div>
          
             <div className="column">
-                <p1>Pay your staff</p1>
+                <p1>Pay your employees</p1>
                 <h2>Pay employees for their hard work.</h2> 
                      <p>We made payroll easy. With just a few clicks, we calculate and file your payroll taxes. And everything syncs automatically - time tracking, new hires, benefits plans, and more. </p>
                 
